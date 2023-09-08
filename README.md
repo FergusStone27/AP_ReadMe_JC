@@ -7,14 +7,14 @@
 
 ![Logo de Saint-Adjutor](https://cdn.discordapp.com/attachments/1114186158075805696/1149704572533747893/logostAD.png)
 
-> "Quoicouflop"[^1]
+> "Quoicouflop"[^1].
 
 - [x] Bien membré
 - [x] I need more bullets :gun:
 - [ ] Toxico 💉
 
 
-Liste des choses à faire au Campus Saint-Anne :
+1. Liste des choses à faire au Campus Saint-Anne :
     - Se restaurer
     - Travailler
     - Changer le code des casiers
@@ -27,4 +27,4 @@ Liste des choses à faire au Campus Saint-Anne :
 > User is suspected to be part of a terrorist group.
 
 
-[^1] : Expression d'enfant
+[^1]: Expression d'enfant.
