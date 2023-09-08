@@ -12,3 +12,6 @@
 - [x] Bien membré
 - [x] I need more bullets :gun:
 - [ ] Toxico 💉
+
+> [!NOTE]
+> User is suspected to be part of a terrorist group.
