@@ -9,12 +9,12 @@
 
 > "Quoicouflop"[^1].
 
-- [x] Bien membré
-- [x] I need more bullets :gun:
-- [ ] Toxico 💉
+- [x] __**Bien membré**__
+- [x] __**I need more bullets**__ :gun:
+- [ ] __**Toxico**__ 💉
 
 
-1. Liste des choses à faire au Campus Saint-Anne :
+1. *Liste des choses à faire au Campus Saint-Anne* :
     - Se restaurer
     - Travailler
     - Changer le code des casiers
